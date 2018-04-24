@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: Katalog pośredni (Debug\) zawiera pliki udostępnione z innego projektu (PierwszaAnimacjaSzesciokat.vcxproj). Może to spowodować niepoprawne zachowanie podczas oczyszczania i ponownej kompilacji.
+  stdafx.cpp
+  Zadanie1.cpp
+  PierwszaAnimacjaSzesciokat.vcxproj -> E:\grafikaKomputerowa\Zajecia 1\Debug\Zadanie1.exe
