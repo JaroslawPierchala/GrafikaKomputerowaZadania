@@ -1,0 +1,6 @@
+﻿  Zajecia2_3.cpp
+soil.lib(image_DXT.obj) : warning LNK4099: nie znaleziono pliku PDB äSOIL.pdbö z elementem äsoil.lib(image_DXT.obj)ö lub w pozycji äE:\grafikaKomputerowa\Zajecia2_3\Debug\SOIL.pdbö; obiekt zostanie skonsolidowany bez informacji debugowania
+soil.lib(image_helper.obj) : warning LNK4099: nie znaleziono pliku PDB äSOIL.pdbö z elementem äsoil.lib(image_helper.obj)ö lub w pozycji äE:\grafikaKomputerowa\Zajecia2_3\Debug\SOIL.pdbö; obiekt zostanie skonsolidowany bez informacji debugowania
+soil.lib(SOIL.obj) : warning LNK4099: nie znaleziono pliku PDB äSOIL.pdbö z elementem äsoil.lib(SOIL.obj)ö lub w pozycji äE:\grafikaKomputerowa\Zajecia2_3\Debug\SOIL.pdbö; obiekt zostanie skonsolidowany bez informacji debugowania
+soil.lib(stb_image_aug.obj) : warning LNK4099: nie znaleziono pliku PDB äSOIL.pdbö z elementem äsoil.lib(stb_image_aug.obj)ö lub w pozycji äE:\grafikaKomputerowa\Zajecia2_3\Debug\SOIL.pdbö; obiekt zostanie skonsolidowany bez informacji debugowania
+  Zajecia2_3.vcxproj -> E:\grafikaKomputerowa\Zajecia2_3\Debug\Zajecia2_3.exe
