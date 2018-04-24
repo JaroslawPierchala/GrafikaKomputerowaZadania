@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  Zajecia2.cpp
+i:\grafikakomputerowa\zajecia2\zajecia2\zajecia2.cpp(42): warning C4244: "=": konwersja z "double" do "GLfloat", możliwa utrata danych
+i:\grafikakomputerowa\zajecia2\zajecia2\zajecia2.cpp(43): warning C4244: "=": konwersja z "double" do "GLfloat", możliwa utrata danych
+  Zajecia2.vcxproj -> I:\grafikaKomputerowa\Zajecia2\Debug\Zajecia2.exe
