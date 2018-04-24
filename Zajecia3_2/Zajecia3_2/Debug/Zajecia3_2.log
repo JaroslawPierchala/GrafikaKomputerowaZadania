@@ -1,0 +1,8 @@
+﻿  Zajecia3_2.cpp
+e:\grafikakomputerowa\zajecia3_2\zajecia3_2\zajecia3_2.cpp(405): warning C4305: "+=": obcięcie z "double" do "GLfloat"
+e:\grafikakomputerowa\zajecia3_2\zajecia3_2\zajecia3_2.cpp(409): warning C4305: "-=": obcięcie z "double" do "GLfloat"
+e:\grafikakomputerowa\zajecia3_2\zajecia3_2\zajecia3_2.cpp(451): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+e:\grafikakomputerowa\zajecia3_2\zajecia3_2\zajecia3_2.cpp(453): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+e:\grafikakomputerowa\zajecia3_2\zajecia3_2\zajecia3_2.cpp(455): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+e:\grafikakomputerowa\zajecia3_2\zajecia3_2\zajecia3_2.cpp(457): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+  Zajecia3_2.vcxproj -> E:\grafikaKomputerowa\Zajecia3_2\Debug\Zajecia3_2.exe
